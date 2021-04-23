@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "0uIHP1wpyvcr/E88uLhx6IRf+zHLqRwL0zkkkSpEsphZA0TWfGlnpgF+4SD4cSiFsziSvKlZPJhQQlZDklJS0g==",
+  "success": true,
+  "projectFilePath": "C:\\MyVersionPaymentUI\\CreditCardUISample\\PaymentUIStripe\\PaymentUIStripe\\PaymentUIStripe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eneto\\.nuget\\packages\\fody\\5.0.6\\fody.5.0.6.nupkg.sha512",
+    "C:\\Users\\eneto\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\eneto\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\eneto\\.nuget\\packages\\propertychanged.fody\\3.0.1\\propertychanged.fody.3.0.1.nupkg.sha512",
+    "C:\\Users\\eneto\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\eneto\\.nuget\\packages\\xamarin.essentials\\1.1.0\\xamarin.essentials.1.1.0.nupkg.sha512",
+    "C:\\Users\\eneto\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512",
+    "C:\\Users\\eneto\\.nuget\\packages\\xamarin.forms.visual.material\\5.0.0.2012\\xamarin.forms.visual.material.5.0.0.2012.nupkg.sha512",
+    "C:\\Users\\eneto\\.nuget\\packages\\xamarinfastentry.behaviors\\1.1.1\\xamarinfastentry.behaviors.1.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
